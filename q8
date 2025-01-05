@@ -1,0 +1,12 @@
+condision(num1>num2)
+{
+    print(true);
+}
+else condision(num2>num1)
+{
+    print(true);
+}
+else
+{
+    print(false);
+}
